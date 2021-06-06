@@ -2,8 +2,8 @@
 
 exports[`Loader component Bb 1`] = `
 "//#gpp-loader #importComponents\\\\\\\\
-import {Cc} from '/home/pyotr/prg/mf.messenger.praktikum.yandex/webpack/loaders/gpp-loader/src/test/loader/example/components/CD/Cc/Cc.gpp.ts'
-import {Dd} from '/home/pyotr/prg/mf.messenger.praktikum.yandex/webpack/loaders/gpp-loader/src/test/loader/example/components/CD/Dd/index.ts'
+import {Cc} from '/home/pyotr/prg/gpp-loader/src/test/loader/example/components/CD/Cc/Cc.gpp.ts'
+import {Dd} from '/home/pyotr/prg/gpp-loader/src/test/loader/example/components/CD/Dd/index.ts'
 //#gpp-loader #importComponents//
 export class Bb {
   //#gpp-loader #componentsfunc\\\\\\\\
@@ -22,8 +22,8 @@ template() {
 
 exports[`Loader index 1`] = `
 "//#gpp-loader #importComponents\\\\\\\\
-import {Aa} from '/home/pyotr/prg/mf.messenger.praktikum.yandex/webpack/loaders/gpp-loader/src/test/loader/example/components/Aa/Aa.gpp.ts'
-import {Dd} from '/home/pyotr/prg/mf.messenger.praktikum.yandex/webpack/loaders/gpp-loader/src/test/loader/example/components/CD/Dd/index.ts'
+import {Aa} from '/home/pyotr/prg/gpp-loader/src/test/loader/example/components/Aa/Aa.gpp.ts'
+import {Dd} from '/home/pyotr/prg/gpp-loader/src/test/loader/example/components/CD/Dd/index.ts'
 //#gpp-loader #importComponents//
 export class Index {
   //#gpp-loader #componentsfunc\\\\\\\\
