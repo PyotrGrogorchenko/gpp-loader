@@ -5,7 +5,7 @@ import { getComponents } from './getComponents'
 import { getComponentsPath } from './getComponentsPath'
 import { getTemplate } from './getTemplate'
 import { modifySource } from './modifySource'
-import { LooseObject, Props, This } from '../types'
+import { Props, This } from '../types'
 
 import schema from './schema.json'
 import { consoleMessages } from './consoleMessages'
