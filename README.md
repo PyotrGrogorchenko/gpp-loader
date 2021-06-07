@@ -1,4 +1,4 @@
-<h1 align="center">gpp Loader</h1>
+<h1 align="center">gpp loader</h1>
 
 [![NPM Status](https://img.shields.io/badge/npm-v1.0.6-blue)](https://www.npmjs.com/package/gpp-loader)
 
