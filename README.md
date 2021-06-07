@@ -6,7 +6,7 @@ This package allows automatically put exports and imports in files of [gpp-templ
 
 <h2 align="center">Install</h2>
 
-> webpack `5.x` | gpp-loader 1.x | gpp-templator 1.x
+> webpack 5.x | gpp-loader 1.x | gpp-templator 1.x
 
 ```bash
 npm install -D gpp-loader
