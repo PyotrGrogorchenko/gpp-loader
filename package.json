@@ -1,18 +1,26 @@
 {
   "name": "gpp-loader",
-  "version": "1.0.3",
-  "description": "",
+  "version": "1.0.4",
+  "description": "gpp-loader",
   "main": "dist/index.js",
   "directories": {
     "lib": "dist"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PyotrGrogorchenko/gpp-loader"
+  },
+  "author": "PyotrPetrovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PyotrGrogorchenko/gpp-loader/issues"
+  },
+  "homepage": "https://github.com/PyotrGrogorchenko/gpp-loader#readme",
   "scripts": {
     "build": "rm -rf dist && tsc --project tsconfig.prod.json",
     "test": "jest",
     "lint": "eslint ."
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "ajv": "^6.12.6",
     "colors": "^1.4.0",
