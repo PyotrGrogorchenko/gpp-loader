@@ -4,7 +4,6 @@
 .babelrc
 .eslintignore
 .gitignore
-README.md
 tsconfig.eslint.json
 tsconfig.json
 tsconfig.prod.json
