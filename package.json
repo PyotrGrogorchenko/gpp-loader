@@ -1,6 +1,6 @@
 {
   "name": "gpp-loader",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Webpack loader for gpp-templator",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
