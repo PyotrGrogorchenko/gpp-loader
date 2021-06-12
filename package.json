@@ -1,6 +1,6 @@
 {
   "name": "gpp-loader",
-  "version": "1.0.12",
+  "version": "1.1.1",
   "description": "Webpack loader for gpp-templator",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/PyotrGrogorchenko/gpp-loader#readme",
   "scripts": {
-    "build": "rm -rf dist && tsc --project tsconfig.prod.json",
+    "prod": "rm -rf dist && tsc --project tsconfig.prod.json",
     "test": "jest",
     "lint": "eslint ."
   },

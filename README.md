@@ -1,8 +1,8 @@
 <h1 align="center">gpp loader</h1>
 
-[![NPM Status](https://img.shields.io/badge/npm-v1.0.6-blue)](https://www.npmjs.com/package/gpp-loader)
+[![NPM Status](https://img.shields.io/badge/build-passing-green)](https://www.npmjs.com/package/gpp-loader)
 
-This package allows automatically put exports and imports in files of [gpp-templator](https://www.npmjs.com/package/gpp-templator) with [webpack](https://github.com/webpack/webpack).
+This package allows automatically put exports and imports in files of [gpp-templator](https://www.npmjs.com/package/gpp-templator) for [webpack](https://github.com/webpack/webpack).
 
 <h2 align="center">Install</h2>
 
