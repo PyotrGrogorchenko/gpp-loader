@@ -2,6 +2,8 @@
 
 [![NPM Status](https://img.shields.io/badge/build-passing-green)](https://www.npmjs.com/package/gpp-loader)
 
+## Description
+
 This package allows automatically put exports and imports in files of [gpp-templator](https://www.npmjs.com/package/gpp-templator) for [webpack](https://github.com/webpack/webpack).
 
 <h2 align="center">Install</h2>
@@ -52,3 +54,5 @@ module: {
 ```
 
 * `componentsDir`: Default `''`. Path of gpp-components directory.
+
+* [PyotrGrigorchenko](https://github.com/PyotrGrogorchenko) - Developer
