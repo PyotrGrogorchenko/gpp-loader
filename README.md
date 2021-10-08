@@ -8,7 +8,7 @@
 
 This package allows automatically put exports and imports in files of [gpp-templator](https://www.npmjs.com/package/gpp-templator) for [webpack](https://github.com/webpack/webpack).
 
-<h2 align="center">Install</h2>
+<h2 align="left">Install</h2>
 
 > webpack 5.x | gpp-loader 1.x | gpp-templator 1.x
 
@@ -16,7 +16,7 @@ This package allows automatically put exports and imports in files of [gpp-templ
 npm install -D gpp-loader
 ```
 
-<h2 align="center">Usage</h2>
+<h2 align="left">Usage</h2>
 
 webpack documentation: [Loaders](https://webpack.js.org/loaders/)
 
