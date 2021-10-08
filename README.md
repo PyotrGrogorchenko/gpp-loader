@@ -3,6 +3,7 @@
 ## Languages and tools
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" width=20 height=20 alt="JavaScript"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width=20 height=20 alt="TypeScript"/>
+
 ## Description
 
 This package allows automatically put exports and imports in files of [gpp-templator](https://www.npmjs.com/package/gpp-templator) for [webpack](https://github.com/webpack/webpack).
@@ -55,5 +56,9 @@ module: {
 ```
 
 * `componentsDir`: Default `''`. Path of gpp-components directory.
+
+## Project phase
+
+The project is completed, only bugs fix.
 
 * [PyotrGrigorchenko](https://github.com/PyotrGrogorchenko) - Developer
